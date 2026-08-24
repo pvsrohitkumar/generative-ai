@@ -41,7 +41,7 @@ Your go-to hub for end-to-end GenAI learning. ⭐ Star this repo to stay updated
 - **[AI/ML Roadmap](https://aimlcompanion.ai/roadmap?utm_source=github&utm_medium=readme&utm_campaign=resources)** - Comprehensive AI/ML learning  &nbsp;·&nbsp; [PDF](./docs/ai_ml_roadmap.pdf)
 
 
-### 🧠 Core Concepts & s
+### 🧠 Core Concepts
 - **[Vector Embeddings ](./docs/vector-embeddings-guide.pdf)** - Understanding vector representations (PDF)
 - **[Prompt Engineering](./docs/prompt_engineering.ipynb)** - Crafting effective prompts (notebook)
 - **[AI Patterns](./docs/ai-patterns.pdf)** - Top 25 AI design patterns (PDF)
